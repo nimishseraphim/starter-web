@@ -7,3 +7,6 @@ again
 ## Purpose
 
 Sample website with plenty of files for demos
+
+###copyright
+2014 git.training.
