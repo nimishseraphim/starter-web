@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 hello
 again
 adding a line
+MORE CHANGES FROM myfeatures branch
 
 ## Purpose
 
